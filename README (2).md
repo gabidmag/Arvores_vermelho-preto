@@ -2,9 +2,9 @@
 
 Trabalho de **Estruturas de Dados 2** · **Unipê – Centro Universitário de João Pessoa** · **Prof. Ed**
 
-**Integrantes:** [Nome 1] e [Nome 2]
+**Integrantes:** Gabriela Dias 
 **Tema:** Árvores Vermelho-Preto (Red-Black Trees)
-**Vídeo:** [cole aqui o link do vídeo no YouTube/TikTok/Kwai]
+**Vídeo:** https://youtu.be/8wp2gkgliN4
 
 ## O que é
 
@@ -78,8 +78,4 @@ Resultado final do passo a passo (`10, 20, 30, 40, 50`):
     10(P)
 ```
 
-## Referências
 
-- Material da disciplina de Estruturas de Dados 2 (Unipê, Prof. Ed)
-- CORMEN, T. H. et al. *Algoritmos: Teoria e Prática*. Capítulo sobre Árvores Vermelho-Preto.
-- VisuAlgo – visualização de estruturas de dados: https://visualgo.net
